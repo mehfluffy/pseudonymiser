@@ -5,6 +5,6 @@ The app hashes user-specified columns of data, and saves the digest in a new CSV
 
 ## Progress
 This is a standalone piece of code that has yet been packaged for installation. Ideas for further development:
-* Store randomly-generated salt in an encrypted way
-* Other methods of pseudonymisation
+* Store salt in an encrypted way
 * Hash collision handling
+* Other methods of pseudonymisation
